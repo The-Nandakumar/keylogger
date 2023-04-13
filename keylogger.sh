@@ -1,4 +1,5 @@
 #!/bin/bash
+#13-04-2023
 
 while true; do
 	read -rsn1 input
