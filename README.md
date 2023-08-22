@@ -1,2 +1,2 @@
 # keylogger
-Keylogger in shell script
+Keylogger in Python
